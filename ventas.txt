@@ -1,0 +1,5 @@
+Id_Venta: 12| Cantidad: 3 | Total: 7006.00 
+Id_Venta: 123| Cantidad: 1 | Total: 60.00 
+Id_Venta: 23 | Articulos: 1 | Total: 2345.00
+Id_Venta: 23 | Articulos: 1 | Total: 2345.00
+Id_Venta: 12 | Articulos: 2 | Total: 12004600.00
